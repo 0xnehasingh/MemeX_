@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+mech-client
+# Add any other dependencies your mech_client needs 
