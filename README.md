@@ -76,6 +76,9 @@ MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agen
 <img width="1440" alt="Screenshot 2025-02-17 at 8 10 56 PM" src="https://github.com/user-attachments/assets/fb275a23-c6ed-44b6-a8cc-377e9fe6df67" />
 
 
+## Architecture
+
+<img width="1350" alt="Screenshot 2025-02-17 at 9 00 27 PM" src="https://github.com/user-attachments/assets/27bc5934-02f9-4a16-9ef7-a33299abf7cb" />
 
 
 ---
