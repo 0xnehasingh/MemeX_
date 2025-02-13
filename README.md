@@ -1,10 +1,6 @@
- MemeX is an innovative ecosystem that transforms traditional, static memes into dynamic, AI-powered characters—Memegents—that interact, entertain, and empower users in the decentralized digital world. By seamlessly combining blockchain technology, advanced AI, and secure smart account infrastructure, MemeX offers a robust platform for creative content, gaming, social engagement, and decentralized finance.
+# MemeX
 
-
-
-
-MemeX is an innovative ecosystem that transforms traditional, static memes into dynamic, AI-powered characters—Memegents—that interact, entertain, and empower users in the decentralized digital world. By seamlessly combining blockchain technology, advanced AI, and secure smart account infrastructure, MemeX offers a robust platform for creative content, gaming, social engagement, and decentralized finance.
- # MemeX
+It is an innovative ecosystem that transforms traditional, static memes into dynamic, AI-powered characters—Memegents—that interact, entertain, and empower users in the decentralized digital world. By seamlessly combining blockchain technology, advanced AI, and secure smart account infrastructure, MemeX offers a robust platform for creative content, gaming, social engagement, and decentralized finance.
 
 ## Overview
 
