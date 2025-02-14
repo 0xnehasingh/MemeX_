@@ -10,7 +10,7 @@ import {
   Zap,
   Activity,
 } from "lucide-react";
-
+import CyberpunkMechChat from "./MechChat";
 interface CyberButtonProps {
   onClick: () => void;
   children: ReactNode;
@@ -266,20 +266,26 @@ const CyberpunkMemeX = () => {
           </div>
         )}
 
-        {selectedTab === "stake" && (
-          <div className="max-w-2xl mx-auto text-center">
-            <h2 className="text-2xl font-bold mb-6 flex items-center justify-center gap-2">
-              <Zap className="w-6 h-6" />
-              STAKE_PROTOCOL
-            </h2>
-            <CyberButton
-              variant="primary"
-              onClick={() => router.push("/stake")}
-            >
-              EXECUTE_STAKE
-            </CyberButton>
-          </div>
-        )}
+{selectedTab === "stake" && (
+  <div className="space-y-8">
+    <div className="max-w-2xl mx-auto text-center mb-8">
+      <h2 className="text-3xl font-bold mb-6 flex items-center justify-center gap-2">
+        <Zap className="w-6 h-6" />
+        Market Conditions
+      </h2>
+      <CyberButton
+        onClick={() => router.push("/stake")}
+      >
+        EXECUTE_STAKE
+      </CyberButton>
+    </div>
+    
+    {/* Mech Chat Integration */}
+    <div className="max-w-4xl mx-auto">
+      <CyberpunkMechChat />
+    </div>
+  </div>
+)}
         </main>
       </div>
     </div>
