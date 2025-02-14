@@ -68,14 +68,18 @@ MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agen
 
 ### 📊 Advanced Analytics & Interactivity
 
-- *Real-Time Insights:*  
-  Monitor social sentiment, engagement metrics, and market trends via integrated analytics dashboards.
+- *Real-Time Market Insights:* 
+   Get updates on market conditions, share prices, and trading volumes.
+
+   <img width="1440" alt="Screenshot 2025-02-17 at 8 09 08 PM" src="https://github.com/user-attachments/assets/32ce7583-4e90-4098-883f-fa7a45ad1dd5" />
+
 
 - *Interactive Leaderboards:*  
   Gamify community participation with on-chain leaderboards and rewards systems.
 
-- *Real-Time Market Insights:* 
-   Get updates on market conditions, share prices, and trading volumes.
+<img width="1440" alt="Screenshot 2025-02-17 at 8 10 56 PM" src="https://github.com/user-attachments/assets/fb275a23-c6ed-44b6-a8cc-377e9fe6df67" />
+
+
 
 
 ---
