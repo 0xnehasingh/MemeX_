@@ -37,10 +37,12 @@ MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agen
 ### 🔐 Secure Digital Ownership
 
 - *On-Chain IP Registration:*  
-  Leverage Story Smart Contracts/SDK to register each Memegent on-chain, ensuring verifiable IP and licensing.
+  Leverage Story Smart Contracts/SDK to register each Memegent on-chain, ensuring verifiable IP and licensing
   
 - *Transparent Royalties:*  
   Blockchain-based metadata tracks copyrights and enables automated revenue sharing.
+
+  <img width="1440" alt="Screenshot 2025-02-17 at 7 18 33 PM" src="https://github.com/user-attachments/assets/c5064910-397b-42a7-b562-f458afeb08e7" />
 
 ### 🚀 Social Engagement & Global Reach
 
@@ -49,6 +51,9 @@ MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agen
   
 - *Multilingual Support:*  
   Integrated AI translation/dubbing (powered by SEI) makes content accessible to global audiences.
+
+  <img width="1440" alt="Screenshot 2025-02-17 at 7 23 19 PM" src="https://github.com/user-attachments/assets/2429febc-37cf-4ee0-aca2-a6c75f6d4f29" />
+
 
 ### 💹 Autonomous DeFi Integration
 
