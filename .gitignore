@@ -39,3 +39,82 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Add this line
+ethereum_private_key.txt
+# Backend specific
+/backend/node_modules
+/backend/dist
+/backend/build
+/backend/coverage
+/backend/.env*
+/backend/logs
+/backend/*.log
+/backend/npm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+
+# Python specific
+/backend/**/__pycache__
+/backend/**/*.py[cod]
+/backend/**/*$py.class
+/backend/**/*.so
+/backend/venv/
+/backend/.env
+/backend/.venv
+/backend/env/
+/backend/ENV/
+/backend/pip-log.txt
+/backend/pip-delete-this-directory.txt
+
+# Python distribution/packaging
+/backend/*.egg-info/
+/backend/dist/
+/backend/build/
+/backend/develop-eggs/
+/backend/downloads/
+/backend/eggs/
+/backend/lib/
+/backend/lib64/
+/backend/parts/
+/backend/sdist/
+/backend/var/
+/backend/wheels/
+/backend/share/python-wheels/
+
+# IDE specific
+/backend/.idea
+/backend/.vscode
+/backend/*.swp
+/backend/*.swo
+
+# OS specific
+/backend/.DS_Store
+/backend/Thumbs.db
+
+# Temporary files
+/backend/tmp
+/backend/temp
+
+# Database
+/backend/*.sqlite
+/backend/*.db
+
+# Documentation
+/backend/docs/generated
+
+# Test coverage
+/backend/.nyc_output
+/backend/coverage
+/backend/.coverage
+/backend/htmlcov/
+
+# Cache directories
+/backend/.cache
+/backend/.npm
+/backend/__pycache__/
+/backend/.pytest_cache/
+
+# FastAPI/Uvicorn
+/backend/uvicorn.log
+
