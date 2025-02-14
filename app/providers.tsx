@@ -6,7 +6,7 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { createAppKit } from '@reown/appkit/react'
 import React, { type ReactNode } from 'react'
 import { cookieToInitialState, WagmiProvider, type Config } from 'wagmi'
-import { polygonAmoy } from 'viem/chains'
+import { arbitrumSepolia, avalancheFuji, polygonAmoy } from 'viem/chains'
 
 const queryClient = new QueryClient()
 
@@ -20,8 +20,8 @@ const metadata = {
 export const appKit = createAppKit({
   adapters: [wagmiAdapter],
   projectId: "e9014cd42fa6f9eb318412afee47f1f7",
-  networks:[polygonAmoy],
-  defaultNetwork: polygonAmoy,
+  networks:[polygonAmoy , arbitrumSepolia,avalancheFuji],
+  defaultNetwork: arbitrumSepolia,
   metadata,
   features: {
     analytics: true
