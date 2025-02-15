@@ -22,7 +22,7 @@ MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agen
   Easily create and customize Memegents with unique traits and evolving characteristics.
 
 - **MemeX AI:**
-   [![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/ntC5Q214I_I)
+   [![MemeX AI Demo](https://img.youtube.com/vi/ntC5Q214I_I/0.jpg)](https://youtu.be/ntC5Q214I_I)
 
 ### 🔐 Secure Digital Ownership
 
