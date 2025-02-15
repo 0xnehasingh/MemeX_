@@ -24,7 +24,7 @@ MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agen
 
 | Demo Type | Link | Preview |
 |-----------|------|---------|
-| MemeX AI Demo | [Watch on YouTube](https://youtu.be/ntC5Q214I_I) | [![MemeX AI Demo](https://img.youtube.com/vi/ntC5Q214I_I/0.jpg)](https://youtu.be/ntC5Q214I_I) |
+| Mech Marketplace Client Demo | [Watch on YouTube](https://youtu.be/ntC5Q214I_I) | [![MemeX AI Demo](https://img.youtube.com/vi/ntC5Q214I_I/0.jpg)](https://youtu.be/ntC5Q214I_I) |
 
 ### 🧠 Dynamic Memegents
 
