@@ -21,6 +21,9 @@ MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agen
 - **Customizable & Evolving:**  
   Easily create and customize Memegents with unique traits and evolving characteristics.
 
+- **MemeX AI:**
+   [![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](./WhatsApp%20Video%202025-02-17%20at%2013.38.12.mp4)
+
 ### 🔐 Secure Digital Ownership
 
 - **On-Chain IP Registration:**  
