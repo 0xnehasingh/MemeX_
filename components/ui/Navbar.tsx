@@ -31,9 +31,9 @@ export function Navbar({
             onClick={scrollToHome}
           >
             <div className="text-green-400 font-mono font-bold text-xl relative">
-              <span className="relative z-10">DefiAI_</span>
+              <span className="relative z-10">MemeX_</span>
               <span className="absolute top-0 left-0.5 text-red-500/50 animate-pulse z-0">
-                DefiAI_
+                MemeX_
               </span>
               <span className="absolute top-0 -left-0.5 text-blue-500/50 animate-pulse z-0">
                 DefiAI_
