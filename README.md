@@ -4,9 +4,12 @@ It is an innovative ecosystem that transforms traditional, static memes into dyn
 
 ## Overview
 
-MemeX transforms iconic memes (e.g., $PEPE, $DOGE) into interactive digital agents called *Memegents*. These agents are not just static images—they chat, play games, interact on social media, and even engage in autonomous DeFi operations. With on-chain IP registration, AI-driven content creation, and blockchain-based security, MemeX empowers creators and communities to monetize creativity while retaining full ownership of their digital assets.
+MemeX is an innovative ecosystem that transforms traditional static iconic meme tokens (e.g., $PEPE, $DOGE) into dynamic, interactive AI-powered characters called Memegents. These characters:
 
----
+- **Chat** with users in real-time.
+- **Entertain** through battles, mini-games, and comedic interactions.
+- **Engage** on social media, posting and responding to trends.
+- **Monetize** MemeX empowers creators and communities to monetize creativity via on-chain staking, combining blockchain (NEAR Protocol/Aurora) and social mechanics
 
 ## 🌟 Key Features
 
